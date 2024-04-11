@@ -1,3 +1,3 @@
 # ZSMTrainers
 
-A collection of the trainers i work on for fun.
+A collection of the trainers i work on for fun... don't even know if they work anymore, i should update them...
